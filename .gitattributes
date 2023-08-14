@@ -1,3 +1,4 @@
 *.py filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+*.env filter=lfs diff=lfs merge=lfs -text
 .env/Lib/site-packages/kaleido/executable/bin/kaleido.exe filter=lfs diff=lfs merge=lfs -text
